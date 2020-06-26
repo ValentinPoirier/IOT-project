@@ -83,19 +83,19 @@ Neopixel bande
 Pour utiliser votre réveil, vous devez télécharger l'application mobile qui vous permettra de configurer votre réveil
 
 Selectionner une alarme ou un timer :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/home-img.png "home")  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/home-img.png "home" | width=100)  
 
 Pour définir une alarme, sélectionner l'heure :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-img.png "Alarme")  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-img.png "Alarme" | width=100)  
 
 Parametrage des huiles et de la lumière :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-settings.png "Parametrage des huiles et de la lumière")  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-settings.png "Parametrage des huiles et de la lumière" | width=100)  
 
 Pour définir un timer :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/timer.png "Timer")  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/timer.png "Timer" | width=100)  
 
 Sélectionner les huiles :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/oil-select.png "Selectionner les huiles")  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/oil-select.png "Selectionner les huiles" | width=100)  
 
 Liste des alarmes :  
 ![alt text](? "Liste des alarmes")
