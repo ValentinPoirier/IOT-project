@@ -34,7 +34,7 @@ Le réveil olfactif est un projet iot d'école qui permet de se réveiller d'une
 - Lien : https://www.tinkercad.com/things/7A4iS2HO7pj
 - Rendu : 
 
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/?raw=true "TinkerCad")
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/tinkercad.png?raw=true "TinkerCad")
 
 
 
@@ -46,7 +46,7 @@ Arduino UNO :pager:
 
 ![alt text](https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_393,q_auto,w_700/c_pad,h_393,w_700/F7697409-02?pgw=1 "Arduino UNO")
 
-Neopixel Jewel - Price : ?
+Neopixel Jewel
 - image :
 
 ![alt text](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/ADAFRUIT-2226-30091174-01.png "Neopixel Jewel")
