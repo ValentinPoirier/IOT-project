@@ -129,7 +129,31 @@ Exemples :
 ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/senteur_personnalisee_sp0123.PNG?raw=true "Senteur personnalisée")
 
 
+Les commandes permettant d'indiquer si la fiole est à remplacer (fiole vide):
+
+**l6empty**
+
+**l6full**
+
+**l7empty**
+
+**l7full**
+
+**l8empty**
+
+**l8full**
+
+**l9empty**
+
+**l9full**
+
+
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/l8empty.PNG?raw=true "Fiole vide")
+
+
 L'utilisateur peut programmer son reveil en tapant dans le moniteur série:
-Exemple : 
+Exemple :
+
 **10:52**
+
 **07:30**
