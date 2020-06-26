@@ -104,11 +104,11 @@ La communication entre le réveil olfactif et l'application se fera via Wifi. Po
 
 Les commandes permettant la diffusion de senteurs prédéfinies :
 
-**s_boisee 
+**s_boisee**
 
-**s_mentolee
+**s_mentolee**
 
-**s_turtle
+**s_turtle**
 
 
 Exemple avec la senteur boisee s_boisse, les trois premières fioles s'ouvrent à 50%, la dernière ne s'ouvre pas.
@@ -118,18 +118,18 @@ Exemple avec la senteur boisee s_boisse, les trois premières fioles s'ouvrent �
 Les commandes permettant la diffusion de senteurs personnalisées :
 L'utilisateur peut indiquer pour chaque fiole si il souhaite l'ouvrir à 0%, 25%, 50%, 75% ou 100%. L'application enverra donc des messages commençant par "sp" suivi de 4 chiffres représentant respectivement les 4 fioles. (0 -> 0%, 1 -> 25%, 2 -> 50%, 3 -> 75%, 4 -> 100%)
 Exemples :
-**sp0123
+**sp0123**
 
-**sp0505
+**sp0505**
 
-**sp1234
+**sp1234**
 
-**...
+**...**
 
 ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/senteur_personnalisee_sp0123.PNG?raw=true "Senteur personnalisée")
 
 
 L'utilisateur peut programmer son reveil en tapant dans le moniteur série:
 Exemple : 
-**10:52
-**07:30
+**10:52**
+**07:30**
