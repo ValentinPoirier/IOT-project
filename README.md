@@ -83,7 +83,7 @@ Neopixel bande
 Pour utiliser votre réveil, vous devez télécharger l'application mobile qui vous permettra de configurer votre réveil
 
 Selectionner une alarme ou un timer :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/home-img.png "home" | width=100)  
+![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/home-img.png | width=100)  
 
 Pour définir une alarme, sélectionner l'heure :  
 ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-img.png "Alarme" | width=100)  
