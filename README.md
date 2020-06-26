@@ -86,19 +86,18 @@ Selectionner une alarme ou un timer :
 <img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/home-img.png" width="300">
 
 Pour définir une alarme, sélectionner l'heure :  
-![test](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-img.png "Alarme" | width=100)  
+<img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-img.png" width="300">
 
 Parametrage des huiles et de la lumière :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-settings.png "Parametrage des huiles et de la lumière" | width=100)  
+<img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-settings.png" width="300"> 
 
 Pour définir un timer :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/timer.png "Timer" | width=100)  
-
+<img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/timer.png" width="300">
 Sélectionner les huiles :  
-![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/oil-select.png "Selectionner les huiles" | width=100)  
+<img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/oil-select.png" width="300">
 
 Liste des alarmes :  
-![alt text](? "Liste des alarmes")
+<img src="https://github.com/ValentinPoirier/IOT-project/blob/master/images/alarm-list.png" width="300">
 
 
 ## Commandes
