@@ -103,7 +103,7 @@ Alarme :
 La communication entre le réveil olfactif et l'application se fera via Wifi. Pour simuler la réception de messages dans Tinkercard, nous utilisons le moniteur série avec les différentes commandes :
 
 La diffusion de senteurs prédéfinies :
-s_boisee ![alt text](https://imgur.com/CwJQYbe "senteur boisee")
+s_boisee ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/senteur_boisee.png?raw=true "TinkerCad")
 s_mentolee
 s_turtle
 
