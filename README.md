@@ -96,3 +96,17 @@ Alarme :
 
 ? :  
 ![alt text](? "?")
+
+
+## Commandes
+
+La communication entre le réveil olfactif et l'application se fera via Wifi. Pour simuler la réception de messages dans Tinkercard, nous utilisons le moniteur série avec les différentes commandes :
+
+La diffusion de senteurs prédéfinies :
+s_boisee https://imgur.com/CwJQYbe
+s_mentolee
+s_turtle
+
+La diffusion de senteurs personnalisées :
+L'utilisateur peut indiquer pour chaque fiole si il souhaite l'ouvrir à 0%, 25%, 50%, 75% ou 100%.
+Exemples : sp0123
