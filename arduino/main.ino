@@ -26,7 +26,7 @@ Servo servos[4] = {servo0, servo1, servo2, servo3};
                    
 // Variables et fonctions horloge                   
 long tick;
-int second; 
+int second = 40; 
 int minute = 51;
 int hour = 15;
 int day = 25;
