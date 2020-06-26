@@ -126,6 +126,9 @@ Exemples :
 
 **...**
 
+
+Exemple avec la combinaison personnalisée sp0123
+
 ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/senteur_personnalisee_sp0123.PNG?raw=true "Senteur personnalisée")
 
 
@@ -147,6 +150,8 @@ Les commandes permettant d'indiquer si la fiole est à remplacer (fiole vide):
 
 **l9full**
 
+
+Exemple où la fiole n°8 est vide:
 
 ![alt text](https://github.com/ValentinPoirier/IOT-project/blob/master/images/l8empty.PNG?raw=true "Fiole vide")
 
