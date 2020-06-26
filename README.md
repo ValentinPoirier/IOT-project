@@ -42,40 +42,41 @@ Le réveil olfactif est un projet iot d'école qui permet de se réveiller d'une
 ## Pièces
 
 Arduino UNO :pager:
-- Price : https://store.arduino.cc/arduino-uno-rev3
-- Preview :
+- image :
 
 ![alt text](https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_393,q_auto,w_700/c_pad,h_393,w_700/F7697409-02?pgw=1 "Arduino UNO")
 
 Neopixel Jewel - Price : ?
-- Preview :
+- image :
 
 ![alt text](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/ADAFRUIT-2226-30091174-01.png "Neopixel Jewel")
 
 Servo moteur
-- Price : ?
-- Preview : 
+- image : 
 
-![alt text](? "Servo moteur")
+![alt text](https://ae01.alicdn.com/kf/HTB1Lkrhkx3IL1JjSZPfq6ArUVXad.jpg?size=110180&height=1000&width=1000&hash=b811dc6388c4f0b26431e36b3537a5f0 "Servo moteur")
 
 Moteur CC
-- Price : ?
-- Preview :  
+- image :  
 
-![alt text](? "Moteur CC")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzSC3Lehd2PHZblMsG20nJkxenlI69yfgBKQ&usqp=CAU "Moteur CC")
 
 Ecran LCD 16*2
-- Price : ?
-- Preview : 
+- image : 
 
-![alt text](? "Ecran LCD")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJsOXqVwoVUcjuzYi-IjgjnrwHq1CEwMinfA&usqp=CAU "Ecran LCD")
+
+Neopixel bande
+- image : 
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJsOXqVwoVUcjuzYi-IjgjnrwHq1CEwMinfA&usqp=CAU "Ecran LCD")
 
 ## Fonctionnement
 
 Pour utiliser votre réveil, vous devez télécharger l'application mobile qui vous permettra de configurer votre réveil
 
-Alarm :  
-![alt text](? "alarm")  
+Alarme :  
+![alt text](? "alarme")  
 
 ? :  
 ![alt text](? "?")  
