@@ -69,7 +69,7 @@ Ecran LCD 16*2
 Neopixel bande
 - image : 
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJsOXqVwoVUcjuzYi-IjgjnrwHq1CEwMinfA&usqp=CAU "Ecran LCD")
+![alt text](https://asset.conrad.com/media10/isa/160267/c1/-/fr/1516566_BB_00_FB/image.jpg?x=400&y=400 "Neopixel à bande")
 
 ## Fonctionnement
 
