@@ -51,6 +51,13 @@ Neopixel Jewel
 
 ![alt text](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/ADAFRUIT-2226-30091174-01.png "Neopixel Jewel")
 
+Module Wifi (ESP8266)
+
+- image :
+
+![alt text](https://static.generation-robots.com/4533-large_default/module-serie-wifi-esp8266.jpg "Module Wifi")
+
+
 Servo moteur
 - image : 
 
