@@ -3,7 +3,7 @@
 ## Equipe 
 - Valentin Poirier
 - Olivier Quéret 
-- Manitra 
+- Manitra Ranaivoharison
 - Yasmine Touzene
 
 ## Présentation :clipboard:
@@ -110,3 +110,5 @@ s_turtle
 La diffusion de senteurs personnalisées :
 L'utilisateur peut indiquer pour chaque fiole si il souhaite l'ouvrir à 0%, 25%, 50%, 75% ou 100%.
 Exemples : sp0123
+L'utilisateur peut programmer son reveil en tapant dans le moniteur série:
+Exemple : 10:52
